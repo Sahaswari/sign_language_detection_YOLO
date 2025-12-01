@@ -1,0 +1,7 @@
+dataset/test
+dataset/train
+dataset/validation
+__pycache__/
+logs/
+models/
+*.ckpt
