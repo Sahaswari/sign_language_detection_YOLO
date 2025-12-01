@@ -1,6 +1,4 @@
-dataset/test
-dataset/train
-dataset/validation
+dataset/
 __pycache__/
 logs/
 models/
